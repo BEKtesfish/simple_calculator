@@ -1,6 +1,9 @@
 def main():
     name=input('Enter your name: ')
-    print(f'name = {name} , age=22')
+    age=input('Enter your age: ')
+    print(f'name = {name} , age = {age}')
 
 if __name__ =='__main__':
     main()
+
+
